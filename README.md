@@ -2,14 +2,20 @@
 __Game Overview__
 
 __App name:__ Interactive Heart
+
 __Platform:__ Web
+
 __Target audience:__ Children aged 8-12
+
 __Target device:__ Mid- to high-end Android and iOS mobile phones and tablets Release date: Late 2023
+
 The Interactive Heart is a simple app where players can tap to explore the main parts of a human heart to unlock information about its function. Once the player has explored this virtual heart, they will have the knowledge they need to make a short presentation.
 
 __Game objective__
 Use augmented reality to view a human heart and scan its major parts to learn more about how they function. This knowledge can be used to create a short presentation.
+
 __Game rules__
+
 ● Using the School ebook, scan the Medica Interactive QR code and open the experience.
 
 ● Tap the heart to bring it to life.
