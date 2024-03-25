@@ -42,7 +42,7 @@ If the heart is left unattended and stops beating, it must be tapped to be broug
 __User Interface (UI)__
 
 The UI will consist of four buttons, one pointing to each section of the Heart. These buttons will be provided as a whole texture atlas, that will be overlaid on top of the Heart’s model in 3D space.
-Each of these buttons will open an information panel when clicked and display the content .
+Each of these buttons will open an information panel when clicked and display the content.
 
 
 
